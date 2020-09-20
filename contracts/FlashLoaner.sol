@@ -15,8 +15,6 @@ contract FlashLoaner {
     sushiRouter = IUniswapV2Router02(_sushiRouter);
   }
 
-  receive() external payable {}
-
   function uniswapV2Call(address _sender, uint _amount0, uint _amount1, bytes calldata _data) external {
       address[] memory path = new address[](2);
       uint amountToken = _amount0 == 0 ? _amount1 : _amount0;
