@@ -1,0 +1,22 @@
+{
+  "name": "flashloaner-contract",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrobergamini/flashloaner-contract.git"
+  },
+  "keywords": ["defi", "ethereum", "flashloans"],
+  "author": "Pedro Bergamini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrobergamini/flashloaner-contract/issues"
+  }
+}
