@@ -8,6 +8,6 @@
     "@openzeppelin/contracts": "^4.7.3"
   },
   "scripts": {
-
+    "compile": "hardhat compile"
   }
 }
