@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Flashloaner
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is a old flash loans examples repo for learning and testing purposes only. **Don't assume any source code here is production ready**.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+The repo is being revamped and will provide more solid examples and documentation soon.
