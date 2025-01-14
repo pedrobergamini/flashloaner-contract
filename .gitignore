@@ -1,15 +1,9 @@
+.env
+node_modules
 package-lock.json
 yarn.lock
-node_modules
-build
-node_modules
-.env
+out
+cache
+broadcast
 coverage
 coverage.json
-typechain
-typechain-types
-
-#Hardhat files
-cache
-artifacts
-
